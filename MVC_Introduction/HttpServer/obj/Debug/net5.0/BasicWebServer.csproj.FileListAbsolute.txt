@@ -1,0 +1,16 @@
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\BasicWebServer.exe
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\BasicWebServer.deps.json
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\BasicWebServer.runtimeconfig.json
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\BasicWebServer.runtimeconfig.dev.json
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\BasicWebServer.dll
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\ref\BasicWebServer.dll
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\bin\Debug\net5.0\BasicWebServer.pdb
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.csproj.AssemblyReference.cache
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.AssemblyInfoInputs.cache
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.AssemblyInfo.cs
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.csproj.CoreCompileInputs.cache
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.dll
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\ref\BasicWebServer.dll
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.pdb
+H:\SoftUni_zadachi\C#Web\New folder\HttpServer\HttpServer\obj\Debug\net5.0\BasicWebServer.genruntimeconfig.cache
